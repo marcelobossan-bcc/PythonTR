@@ -1,0 +1,1534 @@
+Record 100 (MLII, V5; male, age 69)
+
+/Medications:/ Aldomet, Inderal
+
+Beats	Before 5:00	After 5:00	Total
+Normal	367	1872	2239
+APC	4	29	33
+PVC	-	1	1
+Total	371	1902	2273
+
+/Supraventricular ectopy/
+
+  * 33 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	70-89	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+------------------------------------------------------------------------
+
+Record 101 (MLII, V1; female, age 75)
+
+/Medications:/ Diapres
+
+Beats	Before 5:00	After 5:00	Total
+Normal	342	1518	1860
+APC	-	3	3
+Unclassifiable	-	2	2
+Total	342	1523	1865
+
+/Supraventricular ectopy/
+
+  * 3 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	55-79	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	3	30:01
+Upper noisy	1	0:04
+Unreadable	1	0:01
+
+------------------------------------------------------------------------
+
+Record 102 (V5, V2; female, age 84)
+
+/Medications:/ Digoxin
+
+Beats	Before 5:00	After 5:00	Total
+Normal	98	1	99
+PVC	1	3	4
+Paced	243	1785	2028
+Pacemaker fusion	24	32	56
+Total	366	1821	2187
+
+/Ventricular ectopy/
+
+  * 4 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	72-78	2	1:22
+Paced rhythm	68-78	3	28:44
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    The rhythm is paced with a demand pacemaker. The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 103 (MLII, V2; male, age not recorded)
+
+/Medications:/ Diapres, Xyloprim
+
+Beats	Before 5:00	After 5:00	Total
+Normal	355	1727	2082
+APC	-	2	2
+Total	355	1729	2084
+
+/Supraventricular ectopy/
+
+  * 2 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	62-92	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	4	22:01
+Upper noisy	1	0:09
+Lower noisy	2	7:56
+
+------------------------------------------------------------------------
+
+Record 104 (V5, V2; female, age 66)
+
+/Medications:/ Digoxin, Pronestyl
+
+Beats	Before 5:00	After 5:00	Total
+Normal	65	98	163
+PVC	1	1	2
+Paced	197	1183	1380
+Pacemaker fusion	104	562	666
+Unclassifiable	5	13	18
+Total	372	1857	2229
+
+/Ventricular ectopy/
+
+  * 2 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	69-82	22	3:52
+Paced rhythm	70-78	23	26:13
+
+Signal quality	Episodes	Duration
+Both clean	13	26:46
+Upper noisy	5	0:24
+Lower noisy	8	0:46
+Both noisy	12	2:09
+
+Notes:
+    The rate of paced rhythm is close to that of the underlying sinus
+    rhythm, resulting in many pacemaker fusion beats. The PVCs are
+    multiform. Several bursts of muscle noise occur, but the signals are
+    generally of good quality. 
+
+------------------------------------------------------------------------
+
+Record 105 (MLII, V1; female, age 73)
+
+/Medications:/ Digoxin, Nitropaste, Pronestyl
+
+Beats	Before 5:00	After 5:00	Total
+Normal	405	2121	2526
+PVC	12	29	41
+Unclassifiable	-	5	5
+Total	417	2155	2572
+
+/Ventricular ectopy/
+
+  * 41 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	78-102	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	31	22:18
+Upper noisy	3	0:10
+Lower noisy	28	3:27
+Both noisy	23	4:06
+Unreadable	4	0:04
+
+Notes:
+    The PVCs are uniform. The predominant feature of this tape is
+    high-grade noise and artifact. 
+
+------------------------------------------------------------------------
+
+Record 106 (MLII, V1; female, age 24)
+
+/Medications:/ Inderal
+
+Beats	Before 5:00	After 5:00	Total
+Normal	271	1236	1507
+PVC	60	460	520
+Total	331	1696	2027
+
+/Ventricular ectopy/
+
+  * 327 isolated beats
+  * 95 couplets
+  * 1 run of 3 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	49-87	21	22:36
+Ventricular bigeminy	55-103	18	7:15
+Ventricular trigeminy	57-90	1	0:13
+Ventricular tachycardia	121	1	0:02
+
+Signal quality	Episodes	Duration
+Both clean	15	16:25
+Lower noisy	15	13:41
+
+Notes:
+    The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 107 (MLII, V1; male, age 63)
+
+/Medications:/ Digoxin
+
+Beats	Before 5:00	After 5:00	Total
+PVC	2	57	59
+Paced	351	1727	2078
+Total	353	1784	2137
+
+/Ventricular ectopy/
+
+  * 59 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Paced rhythm	68-82	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	2	30:04
+Lower noisy	1	0:02
+
+Notes:
+    Complete heart block is present. The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 108 (MLII, V1; female, age 87)
+
+/Medications:/ Digoxin, Quinaglute
+
+Beats	Before 5:00	After 5:00	Total
+Normal	279	1460	1740
+APC	-	4	4
+PVC	4	13	17
+Fusion PVC	-	2	2
+Junctional escape	-	1	1
+Blocked APC	2	9	11
+Total	285	1489	1774
+
+/Supraventricular ectopy/
+
+  * 4 isolated beats 
+
+/Ventricular ectopy/
+
+  * 15 isolated beats
+  * 2 couplets 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	44-78	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	19	24:05
+Upper noisy	3	0:16
+Lower noisy	12	2:45
+Both noisy	8	3:01
+
+Notes:
+    There is borderline first degree AV block and sinus arrhythmia. The
+    PVCs are multiform. The lower channel exhibits considerable noise
+    and baseline shifts. 
+
+------------------------------------------------------------------------
+
+Record 109 (MLII, V1; male, age 64)
+
+/Medications:/ Quinidine
+
+Beats	Before 5:00	After 5:00	Total
+Left BBB	425	2067	2492
+PVC	6	32	38
+Fusion PVC	2	-	2
+Total	433	2099	2532
+
+/Ventricular ectopy/
+
+  * 40 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	77-101	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	2	29:52
+Lower noisy	1	0:14
+
+Notes:
+    There is first degree AV block. The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 111 (MLII, V1; female, age 47)
+
+/Medications:/ Digoxin, Lasix
+
+Beats	Before 5:00	After 5:00	Total
+Left BBB	348	1775	2123
+PVC	-	1	1
+Total	348	1776	2124
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	64-82	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	5	29:47
+Upper noisy	1	0:07
+Lower noisy	3	0:11
+
+Notes:
+    There is first degree AV block. There are short bursts of both
+    baseline shifts and muscle noise, but in general, the quality is
+    excellent. 
+
+------------------------------------------------------------------------
+
+Record 112 (MLII, V1; male, age 54)
+
+/Medications:/ Digoxin, Pronestyl
+
+Beats	Before 5:00	After 5:00	Total
+Normal	428	2109	2537
+APC	-	2	2
+Total	428	2111	2539
+
+/Supraventricular ectopy/
+
+  * 2 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	74-91	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	6	29:11
+Upper noisy	2	0:21
+Lower noisy	3	0:33
+
+Notes:
+    There is S-T segment depression in the upper channel. 
+
+------------------------------------------------------------------------
+
+Record 113 (MLII, V1; female, age 24)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	288	1501	1789
+Aberrated APC	1	5	6
+Total	289	1506	1795
+
+/Supraventricular ectopy/
+
+  * 6 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	48-87	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    The variation in the rate of normal sinus rhythm is possibly due to
+    a wandering atrial pacemaker. 
+
+------------------------------------------------------------------------
+
+Record 114 (V5, MLII; female, age 72)
+
+/Medications:/ Digoxin
+
+Beats	Before 5:00	After 5:00	Total
+Normal	261	1559	1820
+APC	-	10	10
+Junctional premature	1	1	2
+PVC	13	30	43
+Fusion PVC	-	4	4
+Total	275	1604	1879
+
+/Supraventricular ectopy/
+
+  * 7 isolated beats
+  * 1 run of 5 beats 
+
+/Ventricular ectopy/
+
+  * 45 isolated beats
+  * 1 couplet 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	51-82	2	30:01
+SVTA	102-122	1	0:05
+
+Signal quality	Episodes	Duration
+Both clean	4	29:18
+Upper noisy	4	0:47
+
+Notes:
+    The PVCs are uniform. 
+
+------------------------------------------------------------------------
+
+Record 115 (MLII, V1; female, age 39)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	316	1637	1953
+Total	316	1637	1953
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	50-84	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	2	29:56
+Lower noisy	1	0:09
+
+------------------------------------------------------------------------
+
+Record 116 (MLII, V1; male, age 68)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	384	1918	2302
+APC	-	1	1
+PVC	11	98	109
+Total	395	2017	2412
+
+/Ventricular ectopy/
+
+  * 105 isolated beats
+  * 2 couplets 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	74-86	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	5	29:41
+Upper noisy	4	0:25
+
+Notes:
+    There are two PVC forms. 
+
+------------------------------------------------------------------------
+
+Record 117 (MLII, V2; male, age 69)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	251	1283	1534
+APC	-	1	1
+Total	251	1284	1535
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	48-66	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	2	29:55
+Upper noisy	1	0:01
+Both noisy	1	0:09
+
+------------------------------------------------------------------------
+
+Record 118 (MLII, V1; male, age 69)
+
+/Medications:/ Digoxin, Norpace
+
+Beats	Before 5:00	After 5:00	Total
+Right BBB	349	1817	2166
+APC	10	86	96
+PVC	3	13	16
+Blocked APC	3	7	10
+Total	365	1923	2288
+
+/Supraventricular ectopy/
+
+  * 94 isolated beats
+  * 1 couplet 
+
+/Ventricular ectopy/
+
+  * 16 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	54-91	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	7	29:32
+Upper noisy	2	0:07
+Lower noisy	2	0:10
+Both noisy	2	0:18
+
+Notes:
+    The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 119 (MLII, V1; female, age 51)
+
+/Medications:/ Pronestyl
+
+Beats	Before 5:00	After 5:00	Total
+Normal	246	1297	1543
+PVC	80	364	444
+Total	326	1661	1987
+
+/Ventricular ectopy/
+
+  * 444 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	61-84	49	22:36
+Ventricular bigeminy	52-91	37	3:55
+Ventricular trigeminy	56-77	17	3:34
+
+Signal quality	Episodes	Duration
+Both clean	3	29:35
+Lower noisy	2	0:30
+
+Notes:
+    The PVCs are uniform. 
+
+------------------------------------------------------------------------
+
+Record 121 (MLII, V1; female, age 83)
+
+/Medications:/ Digoxin, Isordil, Nitropaste
+
+Beats	Before 5:00	After 5:00	Total
+Normal	303	1558	1861
+APC	-	1	1
+PVC	-	1	1
+Total	303	1560	1863
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	55-83	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	6	29:09
+Upper noisy	3	0:16
+Lower noisy	3	0:39
+Both noisy	1	0:01
+
+------------------------------------------------------------------------
+
+Record 122 (MLII, V1; male, age 51)
+
+/Medications:/ Digoxin, Lasix, Pronestyl
+
+Beats	Before 5:00	After 5:00	Total
+Normal	422	2054	2476
+Total	422	2054	2476
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	67-97	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    The lower channel has low-amplitude high-frequency noise throughout. 
+
+------------------------------------------------------------------------
+
+Record 123 (MLII, V5; female, age 63)
+
+/Medications:/ Digoxin, Inderal
+
+Beats	Before 5:00	After 5:00	Total
+Normal	249	1266	1515
+PVC	-	3	3
+Total	249	1269	1518
+
+/Ventricular ectopy/
+
+  * 3 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	41-65	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    The PVCs are uniform and interpolated. 
+
+------------------------------------------------------------------------
+
+Record 124 (MLII, V4; male, age 77)
+
+/Medications:/ Digoxin, Isordil, Quinidine
+
+Beats	Before 5:00	After 5:00	Total
+Right BBB	238	1293	1531
+APC	-	2	2
+Junctional premature	14	15	29
+PVC	-	47	47
+Fusion PVC	-	5	5
+Junctional escape	-	5	5
+Total	252	1367	1619
+
+/Supraventricular ectopy/
+
+  * 2 isolated beats
+  * 1 run of 3 beats
+  * 2 runs of 6 beats
+  * 1 run of 14 beats 
+
+/Ventricular ectopy/
+
+  * 18 isolated beats
+  * 1 run of 6 beats
+  * 1 run of 8 beats
+  * 1 run of 20 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	47-64	6	28:36
+Nodal (junctional) rhythm	56-64	2	0:30
+Ventricular trigeminy	51-59	2	0:22
+Idioventricular rhythm	53-61	3	0:37
+
+Signal quality	Episodes	Duration
+Both clean	2	29:53
+Lower noisy	1	0:13
+
+Notes:
+    The PVCs are multiform. The junctional escape beats follow PVCs. 
+
+------------------------------------------------------------------------
+
+Record 200 (MLII, V1; male, age 64)
+
+/Medications:/ Digoxin, Quinidine
+
+Beats	Before 5:00	After 5:00	Total
+Normal	305	1438	1743
+APC	2	28	30
+PVC	126	700	826
+Fusion PVC	-	2	2
+Total	433	2168	2601
+
+/Supraventricular ectopy/
+
+  * 28 isolated beats
+  * 1 couplet 
+
+/Ventricular ectopy/
+
+  * 721 isolated beats
+  * 42 couplets
+  * 5 runs of 3 beats
+  * 2 runs of 4 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	69-111	70	15:58
+Ventricular bigeminy	60-108	71	13:52
+Ventricular tachycardia	90-141	7	0:15
+
+Signal quality	Episodes	Duration
+Both clean	14	21:44
+Upper noisy	6	0:44
+Lower noisy	16	6:36
+Both noisy	8	1:02
+
+Notes:
+    The PVCs are multiform. There are occasional bursts of
+    high-frequency noise in the upper channel, and severe noise and
+    artifact in the lower channel. 
+
+------------------------------------------------------------------------
+
+Record 201 (MLII, V1; male, age 68)
+
+/Medications:/ Digoxin, Hydrochlorthiazide, Inderal, KCl
+
+Beats	Before 5:00	After 5:00	Total
+Normal	440	1185	1625
+APC	-	30	30
+Aberrated APC	2	95	97
+Junctional premature	-	1	1
+PVC	-	198	198
+Fusion PVC	-	2	2
+Junctional escape	-	10	10
+Blocked APC	-	37	37
+Total	442	1558	2000
+
+/Supraventricular ectopy/
+
+  * 79 isolated beats
+  * 23 couplets
+  * 1 run of 3 beats 
+
+/Ventricular ectopy/
+
+  * 200 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	31-61	16	12:57
+SVTA	124	1	0:02
+Atrial fibrillation	56-149	3	10:06
+Nodal (junctional) rhythm	37-60	3	0:24
+Ventricular trigeminy	49-56	12	6:37
+
+Signal quality	Episodes	Duration
+Both clean	2	30:00
+Upper noisy	1	0:02
+Lower noisy	1	0:01
+Both noisy	1	0:02
+
+Notes:
+    The PVCs are uniform and late-cycle. Junctional escape beats occur
+    following episodes of ventricular trigeminy. 
+
+------------------------------------------------------------------------
+
+Record 202 (MLII, V1; male, age 68)
+
+/Medications:/ Digoxin, Hydrochlorthiazide, Inderal, KCl
+
+Beats	Before 5:00	After 5:00	Total
+Normal	261	1800	2061
+APC	-	36	36
+Aberrated APC	-	19	19
+PVC	4	15	19
+Fusion PVC	-	1	1
+Total	265	1871	2136
+
+/Supraventricular ectopy/
+
+  * 26 isolated beats
+  * 13 couplets
+  * 1 run of 3 beats 
+
+/Ventricular ectopy/
+
+  * 20 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	49-69	3	19:31
+Atrial flutter	101-143	1	0:48
+Atrial fibrillation	60-148	4	9:46
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    The PVCs are uniform and late-cycle. This record was taken from the
+    same analog tape as record 201. 
+
+------------------------------------------------------------------------
+
+Record 203 (MLII, V1; male, age 43)
+
+/Medications:/ Coumadin, Digoxin, Heparin, Hygroton, Lasix
+
+Beats	Before 5:00	After 5:00	Total
+Normal	426	2103	2529
+Aberrated APC	2	-	2
+PVC	71	373	444
+Fusion PVC	-	1	1
+Unclassifiable	-	4	4
+Total	499	2481	2980
+
+/Supraventricular ectopy/
+
+  * 2 isolated beats 
+
+/Ventricular ectopy/
+
+  * 238 isolated beats
+  * 64 couplets
+  * 13 runs of 3 beats
+  * 6 runs of 4 beats
+  * 1 run of 7 beats
+  * 1 run of 9 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	63-173	1	2:43
+Atrial flutter	61-180	2	5:14
+Atrial fibrillation	54-180	20	21:32
+Ventricular trigeminy	100-116	1	0:04
+Ventricular tachycardia	124-189	21	0:33
+
+Signal quality	Episodes	Duration
+Both clean	21	24:28
+Upper noisy	20	3:17
+Lower noisy	7	1:49
+Both noisy	8	0:30
+Unreadable	1	0:02
+
+Notes:
+    The PVCs are multiform. There are QRS morphology changes in the
+    upper channel due to axis shifts. There is considerable noise in
+    both channels, including muscle artifact and baseline shifts. This
+    is a very difficult record, even for humans! 
+
+------------------------------------------------------------------------
+
+Record 205 (MLII, V1; male, age 59)
+
+/Medications:/ Digoxin, Quinaglute
+
+Beats	Before 5:00	After 5:00	Total
+Normal	448	2123	2571
+APC	1	2	3
+PVC	6	65	71
+Fusion PVC	-	11	11
+Total	455	2201	2656
+
+/Supraventricular ectopy/
+
+  * 3 isolated beats 
+
+/Ventricular ectopy/
+
+  * 33 isolated beats
+  * 2 runs of 3 beats
+  * 1 run of 8 beats
+  * 1 run of 10 beats
+  * 1 run of 12 beats
+  * 1 run of 13 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	80-99	7	29:43
+Ventricular tachycardia	79-216	6	0:23
+
+Signal quality	Episodes	Duration
+Both clean	2	29:43
+Lower noisy	1	0:23
+
+Notes:
+    The PVCs are of two forms, one of which is much more common than the
+    other. 
+
+------------------------------------------------------------------------
+
+Record 207 (MLII, V1; female, age 89)
+
+/Medications:/ Digoxin, Quinaglute
+
+Beats	Before 5:00	After 5:00	Total
+Left BBB	81	1376	1457
+Right BBB	86	-	86
+APC	-	107	107
+PVC	101	4	105
+Ventricular flutter wave	132	340	472
+Ventricular escape	-	105	105
+Total	400	1932	2332
+
+/Supraventricular ectopy/
+
+  * 1 isolated beat
+  * 1 couplet
+  * 1 run of 104 beats 
+
+/Ventricular ectopy/
+
+  * 89 isolated beats
+  * 5 couplets
+  * 2 runs of 3 beats
+  * 1 run of 12 beats
+  * 1 run of 16 beats
+  * 1 run of 28 beats
+  * 1 run of 36 beats
+  * 1 run of 40 beats
+  * 1 run of 445 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	57-90	10	22:20
+SVTA	108-130	1	0:52
+Ventricular bigeminy	49-83	4	2:38
+Idioventricular rhythm	29-71	1	1:49
+Ventricular tachycardia	118-119	2	0:03
+Ventricular flutter	143-358	6	2:24
+
+Signal quality	Episodes	Duration
+Both clean	8	28:59
+Upper noisy	4	0:22
+Lower noisy	3	0:25
+Both noisy	1	0:19
+
+Notes:
+    This is an extremely difficult record. The predominant rhythm is
+    normal sinus with first degree AV block and left bundle branch
+    block. There are periods when the conduction block changes to a
+    right bundle branch block pattern. The PVCs are multiform.
+    Idioventricular rhythm appears following the longest episode of
+    ventricular flutter. The record ends during the episode of SVTA. 
+
+------------------------------------------------------------------------
+
+Record 208 (MLII, V1; female, age 23)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	278	1308	1586
+SVPC	-	2	2
+PVC	168	824	992
+Fusion PVC	72	301	373
+Unclassifiable	-	2	2
+Total	518	2437	2955
+
+/Supraventricular ectopy/
+
+  * 2 isolated beats 
+
+/Ventricular ectopy/
+
+  * 422 isolated beats
+  * 461 couplets
+  * 7 runs of 3 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	91-134	27	24:43
+Ventricular trigeminy	79-129	26	5:22
+
+Signal quality	Episodes	Duration
+Both clean	8	24:46
+Lower noisy	8	4:14
+Both noisy	8	1:02
+Unreadable	1	0:03
+
+Notes:
+    The PVCs are uniform. The couplets, many of which include a fusion
+    PVC, are often seen in a bigeminal pattern. The triplets each
+    consist of two PVCs and a fusion PVC. 
+
+------------------------------------------------------------------------
+
+Record 209 (MLII, V1; male, age 62)
+
+/Medications:/ Aldomet, Hydrodiuril, Inderal
+
+Beats	Before 5:00	After 5:00	Total
+Normal	475	2146	2621
+APC	11	372	383
+PVC	-	1	1
+Total	486	2519	3005
+
+/Supraventricular ectopy/
+
+  * 119 isolated beats
+  * 2 couplets
+  * 1 run of 4 beats
+  * 1 run of 6 beats
+  * 1 run of 7 beats
+  * 1 run of 13 beats
+  * 1 run of 14 beats
+  * 1 run of 19 beats
+  * 1 run of 25 beats
+  * 1 run of 40 beats
+  * 1 run of 58 beats
+  * 1 run of 74 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	82-116	11	28:23
+SVTA	106-171	10	1:42
+
+Signal quality	Episodes	Duration
+Both clean	10	23:21
+Lower noisy	10	6:44
+
+------------------------------------------------------------------------
+
+Record 210 (MLII, V1; male, age 89)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	413	2010	2423
+Aberrated APC	2	20	22
+PVC	30	164	194
+Fusion PVC	1	9	10
+Ventricular escape	-	1	1
+Total	446	2204	2650
+
+/Supraventricular ectopy/
+
+  * 20 isolated beats
+  * 1 couplet 
+
+/Ventricular ectopy/
+
+  * 163 isolated beats
+  * 13 couplets
+  * 1 run of 4 beats
+  * 2 runs of 6 beats 
+
+Rhythm	Rate	Episodes	Duration
+Atrial fibrillation	63-158	9	29:30
+Ventricular bigeminy	69-109	5	0:23
+Ventricular trigeminy	85-114	1	0:07
+Ventricular tachycardia	103-161	2	0:06
+
+Signal quality	Episodes	Duration
+Both clean	6	29:16
+Upper noisy	3	0:05
+Lower noisy	3	0:14
+Both noisy	5	0:30
+Unreadable	1	0:01
+
+Notes:
+    The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 212 (MLII, V1; female, age 32)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	129	794	923
+Right BBB	334	1491	1825
+Total	463	2285	2748
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	63-108	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	7	29:41
+Lower noisy	3	0:10
+Both noisy	4	0:15
+
+Notes:
+    There is rate-related right bundle branch block which appears when
+    the heart rate exceeds approximately 90 bpm. 
+
+------------------------------------------------------------------------
+
+Record 213 (MLII, V1; male, age 61)
+
+/Medications:/ Digoxin
+
+Beats	Before 5:00	After 5:00	Total
+Normal	432	2209	2641
+APC	1	24	25
+Aberrated APC	-	3	3
+PVC	25	195	220
+Fusion PVC	93	269	362
+Total	551	2700	3251
+
+/Supraventricular ectopy/
+
+  * 26 isolated beats
+  * 1 couplet 
+
+/Ventricular ectopy/
+
+  * 560 isolated beats
+  * 4 couplets
+  * 3 runs of 3 beats
+  * 1 run of 5 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	101-113	22	29:01
+Ventricular bigeminy	102-116	19	1:00
+Ventricular tachycardia	110-117	2	0:04
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    The PVCs are multiform and usually late-cycle, frequently resulting
+    in fusion PVCs. The morphology of the fusion PVCs varies from almost
+    normal to almost identical to that of the PVCs. 
+
+------------------------------------------------------------------------
+
+Record 214 (MLII, V1; male, age 53)
+
+/Medications:/ Digoxin, Dilantin
+
+Beats	Before 5:00	After 5:00	Total
+Left BBB	339	1664	2003
+PVC	44	212	256
+Fusion PVC	-	1	1
+Unclassifiable	-	2	2
+Total	383	1879	2262
+
+/Ventricular ectopy/
+
+  * 233 isolated beats
+  * 9 couplets
+  * 2 runs of 3 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	49-92	13	28:53
+Ventricular trigeminy	71-87	10	1:08
+Ventricular tachycardia	126-150	2	0:05
+
+Signal quality	Episodes	Duration
+Both clean	2	29:59
+Upper noisy	2	0:02
+Both noisy	1	0:04
+
+Notes:
+    The PVCs are multiform. There are two episodes of artifactual
+    amplitude decrease and one occurrence of tape slippage. 
+
+------------------------------------------------------------------------
+
+Record 215 (MLII, V1; male, age 81)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	534	2661	3195
+APC	1	2	3
+PVC	33	131	164
+Fusion PVC	-	1	1
+Total	568	2795	3363
+
+/Supraventricular ectopy/
+
+  * 3 isolated beats 
+
+/Ventricular ectopy/
+
+  * 120 isolated beats
+  * 18 couplets
+  * 3 runs of 3 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	81-124	3	30:03
+Ventricular tachycardia	174-177	2	0:02
+
+Signal quality	Episodes	Duration
+Both clean	14	29:18
+Upper noisy	1	0:00
+Lower noisy	14	0:39
+Both noisy	2	0:09
+
+Notes:
+    The PVCs are multiform. There are two very short occurrences of tape
+    slippage (each less than one second in duration). 
+
+------------------------------------------------------------------------
+
+Record 217 (MLII, V1; male, age 65)
+
+/Medications:/ Digoxin, Lasix, Quinidine
+
+Beats	Before 5:00	After 5:00	Total
+Normal	9	235	244
+PVC	22	140	162
+Paced	301	1241	1542
+Pacemaker fusion	31	229	260
+Total	363	1845	2208
+
+/Ventricular ectopy/
+
+  * 143 isolated beats
+  * 8 couplets
+  * 1 run of 3 beats 
+
+Rhythm	Rate	Episodes	Duration
+Atrial fibrillation	69-103	24	4:12
+Paced rhythm	65-76	33	25:10
+Ventricular bigeminy	68-91	9	0:42
+Ventricular tachycardia	103	1	0:02
+
+Signal quality	Episodes	Duration
+Both clean	3	30:00
+Upper noisy	2	0:05
+
+Notes:
+    The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 219 (MLII, V1; male, age not recorded)
+
+/Medications:/ Digoxin
+
+Beats	Before 5:00	After 5:00	Total
+Normal	367	1715	2082
+APC	-	7	7
+PVC	13	51	64
+Fusion PVC	1	-	1
+Blocked APC	-	133	133
+Total	381	1906	2287
+
+/Supraventricular ectopy/
+
+  * 7 isolated beats 
+
+/Ventricular ectopy/
+
+  * 65 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	38-75	8	6:01
+Atrial fibrillation	51-103	10	23:47
+Ventricular bigeminy	71-88	2	0:08
+Ventricular trigeminy	74-94	1	0:10
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    Following some conversions from atrial fibrillation to normal sinus
+    rhythm are pauses up to 3 seconds in duration. The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 220 (MLII, V1; female, age 87)
+
+/Medications:/ Digoxin
+
+Beats	Before 5:00	After 5:00	Total
+Normal	353	1601	1954
+APC	1	93	94
+Total	354	1694	2048
+
+/Supraventricular ectopy/
+
+  * 38 isolated beats
+  * 13 couplets
+  * 6 runs of 3 beats
+  * 3 runs of 4 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	58-74	9	29:50
+SVTA	113-150	8	0:16
+
+Signal quality	Episodes	Duration
+Both clean	3	29:58
+Lower noisy	2	0:08
+
+------------------------------------------------------------------------
+
+Record 221 (MLII, V1; male, age 83)
+
+/Medications:/ Hydrochlorthiazide, Lasix
+
+Beats	Before 5:00	After 5:00	Total
+Normal	327	1704	2031
+PVC	80	316	396
+Total	407	2020	2427
+
+/Ventricular ectopy/
+
+  * 384 isolated beats
+  * 3 couplets
+  * 2 runs of 3 beats 
+
+Rhythm	Rate	Episodes	Duration
+Atrial fibrillation	47-110	12	29:17
+Ventricular bigeminy	88-101	1	0:03
+Ventricular trigeminy	69-92	8	0:42
+Ventricular tachycardia	122-130	2	0:04
+
+Signal quality	Episodes	Duration
+Both clean	7	29:48
+Upper noisy	1	0:04
+Lower noisy	5	0:14
+
+Notes:
+    The PVCs are multiform, but one form is much more common than the
+    others. 
+
+------------------------------------------------------------------------
+
+Record 222 (MLII, V1; female, age 84)
+
+/Medications:/ Digoxin, Quinidine
+
+Beats	Before 5:00	After 5:00	Total
+Normal	367	1695	2062
+APC	-	208	208
+Junctional premature	-	1	1
+Junctional escape	-	212	212
+Total	367	2116	2483
+
+/Supraventricular ectopy/
+
+  * 147 isolated beats
+  * 21 couplets
+  * 4 runs of 3 beats
+  * 2 runs of 4 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	49-84	32	15:57
+Atrial bigeminy	57-98	3	1:28
+SVTA	121-148	4	0:08
+Atrial flutter	123-148	42	7:03
+Atrial fibrillation	69-163	24	1:44
+Nodal (junctional) rhythm	47-122	31	3:45
+
+Signal quality	Episodes	Duration
+Both clean	8	29:10
+Upper noisy	3	0:08
+Lower noisy	1	0:05
+Both noisy	4	0:42
+
+Notes:
+    The episodes of paroxysmal atrial flutter/fibrillation are usually
+    followed by nodal escape beats. There are several intervals of
+    high-frequency noise/artifact in both channels. 
+
+------------------------------------------------------------------------
+
+Record 223 (MLII, V1; male, age 73)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	373	1656	2029
+APC	7	65	72
+Aberrated APC	-	1	1
+PVC	18	455	473
+Fusion PVC	6	8	14
+Atrial escape	2	14	16
+Total	406	2199	2605
+
+/Supraventricular ectopy/
+
+  * 57 isolated beats
+  * 8 couplets 
+
+/Ventricular ectopy/
+
+  * 252 isolated beats
+  * 27 couplets
+  * 4 runs of 3 beats
+  * 1 run of 5 beats
+  * 1 run of 67 beats
+  * 1 run of 97 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	75-94	11	23:23
+Ventricular bigeminy	74-106	7	4:19
+Ventricular trigeminy	67-92	3	0:38
+Ventricular tachycardia	76-118	7	1:46
+
+Signal quality	Episodes	Duration
+Both clean	5	28:41
+Lower noisy	5	1:20
+Both noisy	1	0:05
+
+Notes:
+    The PVCs are multiform. The two longest episodes of ventricular
+    tachycardia are slow (100 to 105 bpm) and bidirectional. 
+
+------------------------------------------------------------------------
+
+Record 228 (MLII, V1; female, age 80)
+
+/Medications:/ Digoxin, Norpace
+
+Beats	Before 5:00	After 5:00	Total
+Normal	290	1398	1688
+APC	-	3	3
+PVC	60	302	362
+Total	350	1703	2053
+
+/Supraventricular ectopy/
+
+  * 3 isolated beats 
+
+/Ventricular ectopy/
+
+  * 360 isolated beats
+  * 1 couplet 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	54-80	21	24:17
+Ventricular bigeminy	50-88	20	5:48
+
+Signal quality	Episodes	Duration
+Both clean	11	28:25
+Upper noisy	10	1:40
+
+Notes:
+    There is first degree AV block. The PVCs are multiform. There are
+    three short occurrences of tape slippage with a maximum duration of
+    2.2 seconds. 
+
+------------------------------------------------------------------------
+
+Record 230 (MLII, V1; male, age 32)
+
+/Medications:/ Dilantin
+
+Beats	Before 5:00	After 5:00	Total
+Normal	397	1858	2255
+PVC	-	1	1
+Total	397	1859	2256
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	63-99	104	17:45
+Pre-excitation (WPW)	59-93	103	12:21
+
+Signal quality	Episodes	Duration
+Both clean	2	30:03
+Lower noisy	1	0:03
+
+------------------------------------------------------------------------
+
+Record 231 (MLII, V1; female, age 72)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	12	302	314
+Right BBB	278	976	1254
+APC	1	-	1
+PVC	2	-	2
+Blocked APC	2	-	2
+Total	295	1278	1573
+
+/Ventricular ectopy/
+
+  * 1 couplet 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	49-69	6	18:26
+2° heart block	34-38	5	11:40
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    AV conduction is quite abnormal with periods of 2:1 AV block,
+    examples of Mobitz II block, and right bundle branch block which
+    appears to be rate-related. The couplet is probably ventricular. 
+
+------------------------------------------------------------------------
+
+Record 232 (MLII, V1; female, age 76)
+
+/Medications:/ Aldomet, Inderal
+
+Beats	Before 5:00	After 5:00	Total
+Right BBB	80	317	397
+APC	215	1167	1382
+Junctional escape	-	1	1
+Total	295	1485	1780
+
+/Supraventricular ectopy/
+
+  * 18 isolated beats
+  * 82 couplets
+  * 27 runs of 3 beats
+  * 32 runs of 4 beats
+  * 17 runs of 5 beats
+  * 25 runs of 6 beats
+  * 13 runs of 7 beats
+  * 13 runs of 8 beats
+  * 9 runs of 9 beats
+  * 15 runs of 10 beats
+  * 11 runs of 11 beats
+  * 4 runs of 12 beats
+  * 4 runs of 13 beats
+  * 2 runs of 14 beats
+  * 3 runs of 15 beats
+  * 1 run of 36 beats 
+
+Rhythm	Rate	Episodes	Duration
+Sinus bradycardia	24-28	1	30:06
+
+Signal quality	Episodes	Duration
+Both clean	14	26:38
+Upper noisy	6	1:24
+Lower noisy	10	1:14
+Both noisy	6	0:49
+
+Notes:
+    The rhythm is compatible with sick sinus syndrome. There is
+    underlying sinus bradycardia, first degree AV block, and frequent
+    ectopic atrial runs at rates of 80 to 90 bpm. There are numerous
+    long pauses up to 6 seconds in duration. 
+
+------------------------------------------------------------------------
+
+Record 233 (MLII, V1; male, age 57)
+
+/Medications:/ Dilantin
+
+Beats	Before 5:00	After 5:00	Total
+Normal	371	1859	2230
+APC	3	4	7
+PVC	139	692	831
+Fusion PVC	5	6	11
+Total	518	2561	3079
+
+/Supraventricular ectopy/
+
+  * 7 isolated beats 
+
+/Ventricular ectopy/
+
+  * 704 isolated beats
+  * 60 couplets
+  * 6 runs of 3 beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	98-110	36	28:03
+Ventricular bigeminy	88-122	28	1:48
+Ventricular trigeminy	106-122	1	0:04
+Ventricular tachycardia	120-141	6	0:11
+
+Signal quality	Episodes	Duration
+Both clean	1	30:06
+
+Notes:
+    The PVCs are multiform. 
+
+------------------------------------------------------------------------
+
+Record 234 (MLII, V1; female, age 56)
+
+/Medications:/ None
+
+Beats	Before 5:00	After 5:00	Total
+Normal	462	2238	2700
+Junctional premature	-	50	50
+PVC	-	3	3
+Total	462	2291	2753
+
+/Supraventricular ectopy/
+
+  * 1 run of 50 beats 
+
+/Ventricular ectopy/
+
+  * 3 isolated beats 
+
+Rhythm	Rate	Episodes	Duration
+Normal sinus rhythm	84-99	2	29:40
+SVTA	91-147	1	0:26
+
+Signal quality	Episodes	Duration
+Both clean	4	28:40
+Lower noisy	4	1:18
+Both noisy	1	0:07
+
+Notes:
+    The PVCs are uniform. 
+
+------------------------------------------------------------------------
+
+George B. Moody (george@mit.edu) <mailto:george@mit.edu>/
+24 May 1997 (revised 24 June 2010)

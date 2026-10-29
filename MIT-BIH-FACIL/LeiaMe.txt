@@ -1,0 +1,16 @@
+Esta pasta contém uma versão mais "amigável" da base MIT-BIH, onde os arquivos de sinais foram convertidos para o formato wave e as anotações para o formato texto.
+
+Algumas funções para matlab foram implementadas e salvas na pasta funções. Para utilizá-las no Matlab, não se esqueça de incluir essa pasta em seu PATH de busca (File->SetPath):
+
+escala.m - converte a amplitude do sinal de int8 para mV.
+categoria.m - retorna a categoria associada ao índice int do MIT
+filtraqrs.m - filtra uma matriz de anotações deixando apenas as anotações correspondentes a complexos QRS.
+
+Maiores detalhes podem ser obtidos com o comando help <nome da função>.
+
+O script converte.m foi o utilizado para a conversão a partir do formato original da base de dados.
+
+O script exemplo.m demonstra como os sinais e as anotações podem ser lidos e processados com as funções listadas acima.
+
+O programa visual.py permite visualizar o sinal de um canal, indicando a classe de cada batimento.
+

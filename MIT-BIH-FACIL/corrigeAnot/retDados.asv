@@ -1,0 +1,18 @@
+function [s1,s2, anot] = retDados(arquivo)
+%Retorna  grafico e as anotações do paciente dado pelo arquivo
+
+% Leitura do Sinal
+
+Y=wavread('sinais\100.wav','native');
+s1=escala(Y(1:npts,1));
+s2=escala(Y(1:npts,2));
+
+% Leitura das anotações
+
+fid=fopen('anotações\100.ant');
+A=fscanf(fid,'%d',[2,inf])';
+fclose(fid);
+
+
+end
+

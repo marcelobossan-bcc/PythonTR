@@ -1,0 +1,29 @@
+function [segs,t,categorias,n] = retSegmentos( sinal,anotacoes,tJanela)
+% Retorna segmentos de sinais com duração tJanela (ms) centralizados
+% nas anotaçoes correspondentes a classificação de batimentos
+% t retorna a base de tempo
+
+npts=floor(360*tJanela/1000);
+npts2=npts/2;
+t=(0:npts)/360;
+
+sinal=[ones(npts2,1)*sinal(1);sinal;ones(npts2,1)*sinal(length(sinal))];
+
+anot=filtraqrs(anotacoes);
+classes=unique(anot(:,1));
+categorias=categoria(classes);
+l=length(classes);
+n=zeros(l,1).
+
+for i=1:l    
+    B=anot(anot(:,1)==classes(i),:);
+    n(i)=length(B(:,1));
+    for k=1:lb
+        s2=sinal(B(k,2):B(k,2)+npts)';
+        s2=s2-min(s2);
+        s2=s2/max(s2);
+        segs(i,k,:)=s2;
+    end
+end
+end
+

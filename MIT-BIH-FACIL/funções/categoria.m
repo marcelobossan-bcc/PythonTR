@@ -1,0 +1,26 @@
+function cattxt = categoria(indiceInt)
+%cattxt = categoria(indiceInt)
+% retorna a categoria associada ao índice int do MIT
+
+labels={'NOTQRS' 'NORMAL' 'LBBB' 'RBBB' 'ABERR' ...
+        'PVC' 'FUSION' 'NPC' 'APC' 'SVPB' ...
+        'VESC' 'NESC' 'PACE' 'UNKNOWN' 'NOISE' ...
+        '???' 'ARFCT' '???' 'STCH' 'TCH' ...
+        'SYSTOLE' 'DIASTOLE' 'NOTE' 'MEASURE' 'PWAVE' ...
+        'BBB' 'PACESP' 'TWAVE' 'RHYTHM' 'UWAVE' ...
+        'LEARN' 'FLWAV' 'VFON' 'VFOFF' 'AESC' ...
+        'SVESC' 'LINK' 'NAPC' 'PFUS' 'PQ' ...
+        'JPT' 'RONT'};
+
+cattxt=[];
+for i=1:length(indiceInt)
+    if indiceInt(i)<42 && indiceInt(i)>=0
+        cattxt=[cattxt;labels(indiceInt(i)+1)];
+    else
+        cattxt=[cattxt;'???'];
+    end    
+end
+cattxt=char(cattxt);
+end
+
+ 

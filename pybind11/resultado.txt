@@ -1,0 +1,4 @@
+i7-14700
+Python 10.8s
+C++2Python 1.4s (7.7X mais rápido - ocupou 13% do tempo anterior)
+
